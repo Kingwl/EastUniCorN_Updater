@@ -1,0 +1,12 @@
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\bin\Debug\UniCorN_Updater.exe.config
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\bin\Debug\UniCorN_Updater.exe
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\bin\Debug\UniCorN_Updater.pdb
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\MainWindow.baml
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\MainWindow.g.cs
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\App.g.cs
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\UniCorN_Updater_MarkupCompile.cache
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\UniCorN_Updater.g.resources
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\UniCorN_Updater.Properties.Resources.resources
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\UniCorN_Updater.csproj.GenerateResource.Cache
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\UniCorN_Updater.exe
+C:\Users\Hope_Phenom\OneDrive\编程\UniCorN_Updater\UniCorN_Updater\obj\Debug\UniCorN_Updater.pdb
